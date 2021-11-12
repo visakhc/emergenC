@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">emergenC</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="e_mail">e-mail</string>
+    <string name ="hintphone">phone number</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="conti">continue..</string>
+    <string name="hi">Hi</string>
+    <string name="call_ambulance">Call Ambulance!</string>
+    <string name="call_police">Call Police!</string>
+    <string name="about"><u>About</u></string>
+    <string name="view_responces"><u>View Responces</u></string>
+    <string name="nothing_to_show_here">nothing to show here</string>
+    <string name="alert_id">your alert id :</string>
+    <string name="alert_id_here">alert id here</string>
+    <string name="description">description</string>
+    <string name="location">location</string>
+    <string name="phone">contact number</string>
+    <string name="registeract4">REGISTER</string>
+    <string name="details_of_the_victim">DETAILS OF THE VICTIM</string>
+    <string name="select_your_emergency">Select your Emergency</string>
+    <string name="accident">Accident</string>
+    <string name="robbery">Robbery</string>
+    <string name="woman_safety">Woman Safety</string>
+    <string name="todo">TODO</string>
+</resources>

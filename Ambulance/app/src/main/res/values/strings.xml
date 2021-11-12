@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ambulance</string>
+    <string name="please_wait"><font size="20">Fetching your pincode</font></string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="service_id">service_id</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="give_response">Give Response</string>
+    <string name="show_on_map">show on MAP</string>
+    <string name="log_out">log out</string>
+    <string name="normal_alerts">normal alerts</string>
+    <string name="quick_alerts">quick alerts!</string>
+    <string name="change_pincode">change pincode</string>
+    <string name="fetch_pincode">fetch pincode</string>
+    <string name="normal_alrts">Normal Alerts</string>
+    <string name="enter_alertid">enter alertid</string>
+    <string name="search">search</string>
+    <string name="textview">TextView</string>
+    <string name="quick_alrts">Quick Alerts</string>
+    <string name="respond">RESPOND</string>
+    <string name="type_your_responce">type your response</string>
+    <string name="submit">submit</string>
+    <string name="contiue">continue</string>
+    <string name="current_pincode">Current pincode :</string>
+    <string name="or_type_manually">Or type manually</string>
+</resources>

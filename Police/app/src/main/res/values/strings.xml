@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Police</string><![CDATA[
+
+
+    >
+    ]]>
+    <string name="accept_pincode_of_the_location">accept pincode of the location</string>
+    <string name="enter_alertid">enter alertid</string>
+    <string name="give_response">Give Response</string>
+    <string name="wait"><font size="50">loading..</font></string>
+    <string name="enter_alertid_shown_above">enter alertid shown above</string>
+    <string name="no_alerts">no alerts</string>
+    <string name="current_pincode">Current pincode:</string>
+    <string name="todo">TODO</string>
+    <string name="pending_alerts">PENDING ALERTS</string>
+    <string name="view_details">view details</string>
+    <string name="send">send</string>
+    <string name="type_your_response">type your response</string>
+    <string name="send_responce">Send Response</string>
+    <string name="quick_alerts">quick alerts!</string>
+    <string name="normal_alerts">normal alerts</string>
+    <string name="change_pincode">change pincode</string>
+    <string name="string_view_on_map">view on map</string>
+    <string name="go_home">go home</string>
+    <string name="service_id">Service id:</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username :</string>
+    <string name="loggin">Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="logout">logout</string>
+</resources>

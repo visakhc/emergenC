@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ADMIN</string>
+
+    <string name="country_prompt">choose station if applicable</string>
+    <string name="enter_service_id">Enter Service Id</string>
+    <string name="delete_service">Delete Service</string>
+    <string name="nam">Name</string>
+    <string name="phonee">Phone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="addresss">Address</string>
+    <string name="pincodee">Pincode</string>
+    <string name="service_type">Service type</string>
+    <string name="police_ambula"><font size="20">police or ambulance</font></string>
+    <string name="service_id">service id :</string>
+    <string name="textview">TextView</string>
+    <string name="back">back</string>
+    <string name="nothing_to_show_here">nothing to show here</string>
+    <string name="add">add</string>
+    <string name="add_servicemaster">Add Service</string>
+    <string name="remove_servicemaster">Remove Service</string>
+    <string name="admin_panel">ADMIN PANEL</string>
+    <string name="show_services">show services</string>
+
+    <string-array name="country_arrays">
+        <item>choose station if applicable</item>
+        <item>Town PS</item>
+        <item>Chemmangad PS</item>
+        <item>Kasaba PS</item>
+        <item>Panniyankara PS</item>
+        <item>Vanitha PS</item>
+        <item>Nallalam PS</item>
+        <item>Feroke PS</item>
+        <item>Beypore PS</item>
+        <item>Marad PS</item>
+        <item>Pantheerankavu PS</item>
+        <item>Nadakkavu PS</item>
+        <item>Elathur PS</item>
+        <item>Vellayil PS</item>
+        <item>Chevayur PS</item>
+        <item>Kunnamangalam PS</item>
+        <item>Medical College PS</item>
+        <item>Mavoor PS</item>
+        <item>Beypore Coastal Police Station</item>
+        <item>Elathur Coastal Police Station</item>
+
+    </string-array>
+</resources>

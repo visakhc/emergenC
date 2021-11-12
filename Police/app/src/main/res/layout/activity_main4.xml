@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16sp"
+    android:scrollbarSize="10sp"
+    tools:context=".MainActivity4">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/act4frame"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingBottom="20dp"
+        tools:context="com.example.risvana.gps_project.Main2Activity">
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginTop="0dp"
+
+            android:maxWidth="300dp"
+
+            android:minWidth="300dp"
+            android:minHeight="35dp"
+            android:text=""
+            android:textAlignment="textStart"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_marginTop="0dp"
+
+            android:background="@drawable/act4frame"
+            android:maxWidth="300dp"
+
+            android:minWidth="300dp"
+            android:minHeight="35dp"
+
+            android:text=""
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView5"
+            android:layout_marginTop="0dp"
+
+            android:maxWidth="300dp"
+
+            android:minWidth="300dp"
+            android:minHeight="35dp"
+
+            android:text=""
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView6"
+            android:layout_marginTop="0dp"
+
+            android:background="@drawable/act4frame"
+            android:maxWidth="300dp"
+
+            android:minWidth="300dp"
+            android:minHeight="35dp"
+
+            android:text=""
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="213dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView7"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+
+            android:layout_marginStart="157dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="6dp"
+            android:backgroundTint="#93F17E"
+            android:minWidth="150dp"
+            android:minHeight="40dp"
+            android:text="@string/give_response"
+            android:textColor="#030209"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="121dp"
+            android:layout_height="62dp"
+            android:layout_below="@+id/textView7"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="11dp"
+            android:layout_marginEnd="241dp"
+            android:backgroundTint="#954E4E"
+            android:text="@string/string_view_on_map"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+</ScrollView>
