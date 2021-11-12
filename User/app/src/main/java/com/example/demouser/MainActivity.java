@@ -6,15 +6,17 @@ import android.os.Bundle;
 import android.os.StrictMode;
 import android.widget.Button;
 import android.widget.EditText;
+
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-    public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
         public EditText ed;
         public static final String url ="jdbc:mysql://192.168.1.10:3306/android1";
@@ -27,8 +29,6 @@ import java.sql.SQLException;
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_main);
-
-
             SharedPreferences shared1= getApplicationContext().getSharedPreferences("sid3",MODE_PRIVATE);
             String s1 =shared1.getString("sid3", "");
 
@@ -133,4 +133,6 @@ import java.sql.SQLException;
             startActivity(i);
 
         }
+
+
     }

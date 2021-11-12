@@ -13,9 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication"
         android:fullBackupContent="@xml/backup_descriptor">
-        <activity android:name=".MainActivity2"/>
-        <activity android:name=".MainActivity4" />
-        <activity android:name=".MainActivity3" />
+        <activity android:name=".MainActivity2"
+            android:exported="true"/>
+        <activity android:name=".MainActivity4"
+            android:exported="true" />
+        <activity android:name=".MainActivity3"
+            android:exported="true"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

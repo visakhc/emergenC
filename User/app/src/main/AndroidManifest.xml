@@ -16,12 +16,12 @@
         android:roundIcon="@mipmap/mainlogoround"
         android:supportsRtl="true"
         android:theme="@style/Theme.DemoUSER">
-        <activity android:name=".MainActivity7"/>
-        <activity android:name=".MainActivity6" />
-        <activity android:name=".MainActivity5" />
-        <activity android:name=".MainActivity4" />
-        <activity android:name=".MainActivity2" />
-        <activity android:name=".MainActivity3" />
+        <activity android:name=".MainActivity7" android:exported="true"/>
+        <activity android:name=".MainActivity6" android:exported="true"/>
+        <activity android:name=".MainActivity5" android:exported="true"/>
+        <activity android:name=".MainActivity4" android:exported="true"/>
+        <activity android:name=".MainActivity2" android:exported="true"/>
+        <activity android:name=".MainActivity3" android:exported="true"/>
         <activity android:name=".MainActivity">
             <meta-data
                 android:name="com.google.android.gms.version"
